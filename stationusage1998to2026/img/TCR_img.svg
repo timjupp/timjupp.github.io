@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='360.00pt' height='360.00pt' viewBox='0 0 360.00 360.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='360.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpNTkuMDR8MzI5Ljc2fDU5LjA0fDI4Ni41Ng=='>
+    <rect x='59.04' y='59.04' width='270.72' height='227.52' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDU5LjA0fDI4Ni41Ng==)'>
+<line x1='293.26' y1='270.94' x2='301.44' y2='118.32' style='stroke-width: 1.50;' />
+<line x1='305.31' y1='104.83' x2='307.30' y2='101.25' style='stroke-width: 1.50;' />
+<circle cx='292.88' cy='278.13' r='2.70' style='stroke-width: 1.50;' />
+<circle cx='301.83' cy='111.13' r='2.70' style='stroke-width: 1.50;' />
+<circle cx='310.78' cy='94.94' r='2.70' style='stroke-width: 1.50;' />
+<circle cx='319.73' cy='98.88' r='2.70' style='stroke-width: 1.50;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwzNjAuMDA=)'>
+<text x='194.40' y='26.06' text-anchor='middle' style='font-size: 14.40px; font-weight: bold; font-family: "Arial";' textLength='203.08px' lengthAdjust='spacingAndGlyphs'>Tottenham Court Road (TCR) </text>
+<text x='194.40' y='43.34' text-anchor='middle' style='font-size: 14.40px; font-weight: bold; font-family: "Arial";' textLength='158.46px' lengthAdjust='spacingAndGlyphs'>2026 usage: 67,159,788</text>
+<text x='194.40' y='341.28' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='25.35px' lengthAdjust='spacingAndGlyphs'>Year</text>
+<text transform='translate(12.96,172.80) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='168.08px' lengthAdjust='spacingAndGlyphs'>Passengers per year [log scale]</text>
+<line x1='86.97' y1='286.56' x2='310.78' y2='286.56' style='stroke-width: 0.75;' />
+<line x1='86.97' y1='286.56' x2='86.97' y2='293.76' style='stroke-width: 0.75;' />
+<line x1='131.73' y1='286.56' x2='131.73' y2='293.76' style='stroke-width: 0.75;' />
+<line x1='176.50' y1='286.56' x2='176.50' y2='293.76' style='stroke-width: 0.75;' />
+<line x1='221.26' y1='286.56' x2='221.26' y2='293.76' style='stroke-width: 0.75;' />
+<line x1='266.02' y1='286.56' x2='266.02' y2='293.76' style='stroke-width: 0.75;' />
+<line x1='310.78' y1='286.56' x2='310.78' y2='293.76' style='stroke-width: 0.75;' />
+<text x='86.97' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2000</text>
+<text x='131.73' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2005</text>
+<text x='176.50' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text x='221.26' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<text x='266.02' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='310.78' y='312.48' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='26.70px' lengthAdjust='spacingAndGlyphs'>2025</text>
+<line x1='59.04' y1='240.65' x2='59.04' y2='87.55' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='240.65' x2='51.84' y2='240.65' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='179.60' x2='51.84' y2='179.60' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='129.72' x2='51.84' y2='129.72' style='stroke-width: 0.75;' />
+<line x1='59.04' y1='87.55' x2='51.84' y2='87.55' style='stroke-width: 0.75;' />
+<text transform='translate(41.76,240.65) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>4e+07</text>
+<text transform='translate(41.76,179.60) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>5e+07</text>
+<text transform='translate(41.76,129.72) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>6e+07</text>
+<polygon points='59.04,286.56 329.76,286.56 329.76,59.04 59.04,59.04 ' style='stroke-width: 0.75;' />
+<line x1='329.76' y1='240.65' x2='329.76' y2='87.55' style='stroke-width: 0.75;' />
+<line x1='329.76' y1='240.65' x2='336.96' y2='240.65' style='stroke-width: 0.75;' />
+<line x1='329.76' y1='179.60' x2='336.96' y2='179.60' style='stroke-width: 0.75;' />
+<line x1='329.76' y1='129.72' x2='336.96' y2='129.72' style='stroke-width: 0.75;' />
+<line x1='329.76' y1='87.55' x2='336.96' y2='87.55' style='stroke-width: 0.75;' />
+<text transform='translate(355.68,240.65) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>4e+07</text>
+<text transform='translate(355.68,179.60) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>5e+07</text>
+<text transform='translate(355.68,129.72) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='33.70px' lengthAdjust='spacingAndGlyphs'>6e+07</text>
+</g>
+<g clip-path='url(#cpNTkuMDR8MzI5Ljc2fDU5LjA0fDI4Ni41Ng==)'>
+<line x1='69.07' y1='286.56' x2='69.07' y2='59.04' style='stroke-width: 0.75; stroke-dasharray: 4.00,4.00;' />
+<line x1='319.73' y1='286.56' x2='319.73' y2='59.04' style='stroke-width: 0.75; stroke-dasharray: 4.00,4.00;' />
+<polyline points='69.07,1613.70 71.57,1598.19 74.08,1582.68 76.59,1567.17 79.09,1551.66 81.60,1536.15 84.11,1520.64 86.61,1505.13 89.12,1489.62 91.63,1474.11 94.13,1458.60 96.64,1443.09 99.15,1427.58 101.65,1412.07 104.16,1396.56 106.67,1381.05 109.17,1365.54 111.68,1350.03 114.19,1334.52 116.69,1319.01 119.20,1303.50 121.71,1287.99 124.21,1272.48 126.72,1256.97 129.23,1241.46 131.73,1225.95 134.24,1210.44 136.75,1194.93 139.25,1179.42 141.76,1163.91 144.27,1148.40 146.77,1132.89 149.28,1117.38 151.79,1101.87 154.29,1086.36 156.80,1070.85 159.31,1055.34 161.81,1039.83 164.32,1024.32 166.83,1008.81 169.33,993.30 171.84,977.79 174.35,962.28 176.85,946.77 179.36,931.26 181.87,915.74 184.37,900.23 186.88,884.72 189.39,869.21 191.89,853.70 194.40,838.19 196.91,822.68 199.41,807.17 201.92,791.66 204.43,776.15 206.93,760.64 209.44,745.13 211.95,729.62 214.45,714.11 216.96,698.60 219.47,683.09 221.97,667.58 224.48,652.07 226.99,636.56 229.49,621.05 232.00,605.54 234.51,590.03 237.01,574.52 239.52,559.01 242.03,543.50 244.53,527.99 247.04,512.48 249.55,496.97 252.05,481.46 254.56,465.95 257.07,450.44 259.57,434.93 262.08,419.42 264.59,403.91 267.09,388.40 269.60,372.89 272.11,357.38 274.61,341.87 277.12,326.36 279.63,310.85 282.13,295.34 284.64,279.83 287.15,264.32 289.65,248.81 292.16,233.30 294.67,217.79 297.17,202.28 299.68,186.77 302.19,171.25 304.69,155.74 307.20,140.23 309.71,124.72 312.21,109.21 314.72,93.70 317.23,78.19 319.73,62.68 ' style='stroke-width: 1.50; stroke: #0000FF; stroke-dasharray: 8.00,8.00;' />
+<rect x='59.04' y='59.04' width='198.80' height='28.80' style='stroke-width: 0.75; fill: #FFFFFF;' />
+<text x='80.64' y='77.75' style='font-size: 12.00px;fill: #0000FF; font-family: "Arial";' textLength='171.80px' lengthAdjust='spacingAndGlyphs'>+22.44% per year: 1998 to 2026</text>
+</g>
+</svg>
